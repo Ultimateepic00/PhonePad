@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="PhoneController Logo" width="140" height="140" />
+  <img src="logo.png" alt="PhonePad Logo" width="140" height="140" />
 
   # 📱 PhonePad 💻
   ### **PC Remote, Low-Latency Touchpad & Wireless Microphone**
@@ -32,7 +32,7 @@
 | **🖱️ تاتش باد 60 إطار/ثانية**<br>*(60FPS Touchpad)* | • نقرة بإصبع (كليك شمال) \| نقرة بإصبعين (كليك يمين) \| ضغطة مطولة (Drag & Drop).<br>• تمرير بإصبعين (Scroll) \| تقارب وتباعد الأصابع (**Pinch to Zoom**). |
 | **🎙️ مايكروفون لاسلكي**<br>*(Wireless Mic)* | • زر يحوّل مايكروفون الهاتف إلى مايك لاسلكي للويندوز، مثالي للمكالمات والتسجيل. يحتاج تثبيت **VB-CABLE** على الكمبيوتر. |
 | **🎵 تحكم بالوسائط**<br>*(Media Keys)* | • 11 زر وسائط: `Play/Pause`, `Next`, `Prev`, `Stop`, `Mute`, `Vol+`, `Vol-`, `Repeat`, `Shuffle`، وتقديم/تأخير بثواني قابلة للتخصيص.<br>• **توجيه الأوامر لبرنامج محدد** حتى لو كان في الخلفية. |
-| **🎚️ مكسر صوت التطبيقات**<br>*(Per-App Volume Mixer)* | • التحكم في مستوى صوت كل برنامج مفتوح على الويندوز من شاشة الهاتف. |
+| **🎚️ متحكّم صوت التطبيقات**<br>*(Per-App Volume Mixer)* | • التحكم في مستوى صوت كل برنامج مفتوح على الويندوز من شاشة الهاتف. |
 | **⚙️ النظام والكيبورد**<br>*(System & Keyboard)* | • `Shutdown`, `Restart`, `Sleep`, `Screenshot`, `Show Desktop`, `Alt+Tab`، والتحكم في **سطوع الشاشة**.<br>• كيبورد كامل + وضع الأزرار الخاصة (`Ctrl, Alt, Shift, Win, Esc, F1-F12`).<br>• مشاركة الحافظة (**Clipboard Sync**) بتفعيل يدوي. |
 | **🎨 واجهة قابلة للتخصيص**<br>*(Customizable UI)* | • 3 أوضاع: **Light**, **Dark**, و **AMOLED Pure Black**.<br>• اهتزاز لمسي (**Haptic Feedback**) بشدة قابلة للتحكم.<br>• وضع عمودي وأفقي وترتيب أزرار قابل للتخصيص. |
 
